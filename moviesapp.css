@@ -1,0 +1,11 @@
+h2,
+h3,
+form {
+  display: flex;
+  justify-content: center;
+}
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
